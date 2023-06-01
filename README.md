@@ -9,3 +9,4 @@ The goal of this data science project is to develop a classification model using
 3. Build preliminary model
   - One-Hot-Encoding
 4. Optimize parameters
+5. Identify most important features using SHAP
